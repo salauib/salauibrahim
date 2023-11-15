@@ -8,4 +8,4 @@
 * I am available at officialsalau@gmail.com
 
 * Technologies and Tools I Use:
-	html, css, javascript, vscode, git, github
+	Android, Kotlin, HTML, CSS, JavaScript, Python, Git, Github, VSCode
